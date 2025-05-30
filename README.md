@@ -4,6 +4,6 @@
 *Dependencies*
 
 More cowbell
-CPX boards from Adafruit [](https://github.com/adafruit/Adafruit_CircuitPlayground)
+CPX boards from Adafruit [Click Here for CPX library](https://github.com/adafruit/Adafruit_CircuitPlayground)
 
 Game does, Blah blah blah
